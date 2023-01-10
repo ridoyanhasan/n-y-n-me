@@ -9,14 +9,12 @@
     
     text-align: right;
     padding: 216px 230px 364px 845px;
-    
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    }
+}
 
 .banner-title{
     font-size: 65px;
     font-weight: bold;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
     color: #151414;
     font-weight: 700;
 }
@@ -45,7 +43,7 @@ section{
     justify-content: space-between;
     align-items: center;
     margin: 130px 300px;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
 }
 
 .body-title{
@@ -66,7 +64,7 @@ color: #444343;
     font-size: 40px;
     font-weight: 700;
     text-align: center;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
 
 }
 
@@ -75,7 +73,7 @@ color: #444343;
     justify-content: space-around;
     padding-left: 230px;
     padding-right: 230px;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
 }
 
 .myplan-title{
@@ -130,7 +128,7 @@ color: #F15B22;
     padding: 130px 200px;
     padding-left: 230px;
     
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
 }
 .contact-title{
     font-weight: 700;
